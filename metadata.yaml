@@ -1,0 +1,33 @@
+_repo: La-Libert--et-le-D-terminisme_38618
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38618-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fouillée, Alfred
+    aliases:
+    - Fouillee, Alfred Jules Emile
+    - Fouillée, Alfred Jules Émile
+    - Fouillée, A. (Alfred)
+    birthdate: 1838
+    deathdate: 1912
+    gutenberg_agent_id: '41261'
+    url: http://www.gutenberg.org/2009/agents/41261
+    wikipedia: http://fr.wikipedia.org/wiki/Alfred_Fouill%C3%A9e
+description: ''
+gutenberg_bookshelf: FR Philosophie, Religion et Morale
+gutenberg_issued: '2012-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38618'
+  lccn: '33034198'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Free will and determinism'
+- !lcc 'B'
+title: La Liberté et le Déterminisme
+url: http://www.gutenberg.org/ebooks/38618
