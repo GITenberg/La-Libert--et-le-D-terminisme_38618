@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41261
     wikipedia: http://fr.wikipedia.org/wiki/Alfred_Fouill%C3%A9e
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38618#La-Libert--et-le-D-terminisme
 gutenberg_bookshelf: FR Philosophie, Religion et Morale
 gutenberg_issued: '2012-01-18'
 gutenberg_type: Text
